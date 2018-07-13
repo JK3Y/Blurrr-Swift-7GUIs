@@ -1,6 +1,0 @@
-framework module iup {
-  umbrella header "iup.h"
-
-  export *
-  module * { export * }
-}

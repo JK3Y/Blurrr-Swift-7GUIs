@@ -1,6 +1,0 @@
-framework module iupweb {
-  umbrella header "iupweb.h"
-
-  export *
-  module * { export * }
-}
