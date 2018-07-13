@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "c13513582e8cc23503cefe3aa3f4acfb"
+build_time: [1531483659, 284942000]
+inputs:
+  "/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/3.11.0/CompilerIdSwift/CompilerId/main.swift": [1531483658, 0]

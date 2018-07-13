@@ -1,0 +1,115 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "btn_count_cb"
+- "IupSwiftEntryPoint"
+- "IupSwiftExitPoint"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- !private "FloatLiteralType"
+- !private "IUP_CENTER"
+- !private "IUP_DEFAULT"
+- "Int32"
+- !private "IntegerLiteralType"
+- !private "IupButton"
+- !private "IupClose"
+- !private "IupDialog"
+- !private "IupGetHandle"
+- !private "IupGetInt"
+- !private "IupHbox"
+- !private "IupSetAttribute"
+- !private "IupSetCallback"
+- !private "IupSetHandle"
+- !private "IupSetInt"
+- !private "IupSetStrAttribute"
+- !private "IupShowXY"
+- "IupSwiftEntryPoint"
+- "IupSwiftExitPoint"
+- !private "IupText"
+- "OpaquePointer"
+- !private "StringLiteralType"
+- "btn_count_cb"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/iupweb.framework/Headers/iupweb.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Stdlib.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_File.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/iup.framework/Headers/iupdef.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Log.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Path.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Random.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Platform.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/iup.framework/Headers/iup.h"
+- "/Users/jamador/dev/Swift IUP/7GUIs/Counter/source/MySwiftBridgingHeader.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_TimeTicker.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/iup.framework/Headers/iupcbs.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Process.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/BlurrrCore.framework/Headers/BlurrrCore_Exports.h"
+- "/Users/jamador/dev/Swift IUP/7GUIs/Counter/source/iupvalist.h"
+- "/Users/jamador/Downloads/BlurrrSDKApple/Libraries/SDK/OSX/C/Frameworks/iup.framework/Headers/iupkey.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+interface-hash: "cb950d7cb913a412dac3dcc1ae7bf004"

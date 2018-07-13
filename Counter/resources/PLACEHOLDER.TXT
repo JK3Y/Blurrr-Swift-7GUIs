@@ -1,0 +1,3 @@
+Your resources go in this directory.
+Don't forget to add to your CMakeBlurrrUserFiles.cmake.
+

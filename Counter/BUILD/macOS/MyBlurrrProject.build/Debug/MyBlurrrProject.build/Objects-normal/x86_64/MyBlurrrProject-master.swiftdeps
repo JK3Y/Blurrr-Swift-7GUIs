@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "0326e4d3caa6a5dd5603eca625199878"
+build_time: [1531485000, 66661000]
+inputs:
+  "/Users/jamador/dev/Swift IUP/7GUIs/Counter/source/BlurrrMain.swift": [1531484588, 0]
+  "/Users/jamador/dev/Swift IUP/7GUIs/Counter/source/IupSwiftBinding.swift": [1504339252, 0]

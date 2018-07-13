@@ -1,0 +1,6 @@
+/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/install.dir
+/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/package.dir
+/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/uninstall.dir
+/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/MyBlurrrProject.dir
+/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/ALL_BUILD.dir
+/Users/jamador/dev/Swift IUP/7GUIs/Counter/BUILD/macOS/CMakeFiles/ZERO_CHECK.dir
